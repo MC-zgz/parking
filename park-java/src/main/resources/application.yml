@@ -41,11 +41,11 @@ logging:
 aliyun:
   oss:
     file:
-      endpoint: oss-cn-guangzhou.aliyuncs.com
-      keyid: LTAI5tS7NvPtzkphx1r8XUYg
-      keysecret: 2WCEgbaFQObcqptmECjO8qPFwSCW4S
+      endpoint: XXXXX
+      keyid: XXXXXX
+      keysecret: XXXXX
       #bucket可以在控制台创建，也可以使用java代码创建
-      bucketname: zgz-online-education-file
+      bucketname: XXXXXX
 
 
 
